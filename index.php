@@ -56,8 +56,8 @@ $db_name2='Hobbies';
 //$insert3 = mysqli_query($db_conn, "INSERT INTO Hobbies VALUES (NULL,'Бег','спорт')");
 //$insert4 = mysqli_query($db_conn, "INSERT INTO Hobbies VALUES (NULL,'Кроссфит','спорт')");
 //$insert1 = mysqli_query($db_conn, "INSERT INTO Hobbies VALUES (NULL,'карты','азартные')");
-$sql_create = mysqli_query($db_conn , "CREATE TABLE Peoople_hobbies (
+/*$sql_create = mysqli_query($db_conn , "CREATE TABLE Peoople_hobbies (
     ID_record int(5) unsigned AUTO_INCREMENT PRIMARY KEY,
     ID_people int(5),
     ID_hobbies int(5)
-)" );
+)" );*/
